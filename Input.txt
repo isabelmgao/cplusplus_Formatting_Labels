@@ -1,0 +1,25 @@
+2
+Sam Alexander Smith
+1234 S. Main Street
+Anywhere, U.S.A. 99999-0000
+3
+Sally Robertson
+456 Cross Ave East
+Somewhere Else, New Mexico 91991
+3
+This is a very long line that will need to fit in space.
+The next line is an empty line
+
+This is the third line of the address
+2
+Mohammad R. Ali
+111 Ali Street
+Louisville, KY 12345-0111
+3
+Khaled Mansour
+899 Money Ave West Next to the gas station of AMOCO.
+Mycity, New Island 55555-1234
+6
+Janet Remen
+9875 Michigan Ave.
+Ann Arbor, New England 32345
